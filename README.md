@@ -1,0 +1,2 @@
+# AlvanzStock-App
+AlvanzStock Application
